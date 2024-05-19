@@ -23,7 +23,7 @@ https://www.censys.io/certificates?q=baidu.com
 ```
 
 
-![](certificate_transparency/1594459-20200119142058672-37856097.png)
+![1](certificate_transparency/1594459-20200119142058672-37856097.png)
 
 ### 工具枚举查询
 
